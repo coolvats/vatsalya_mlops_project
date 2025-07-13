@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/8b24246ed1644e84b0c7db9a1722db14/artifacts
+end_time: 1752419228715
+entry_point_name: ''
+experiment_id: '933796386032983862'
+lifecycle_stage: active
+run_id: 8b24246ed1644e84b0c7db9a1722db14
+run_name: incongruous-eel-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752419210720
+status: 3
+tags: []
+user_id: vatsa

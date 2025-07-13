@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/models/m-ee70e093967e461c9b9cd771af983bb4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-ee70e093967e461c9b9cd771af983bb4
+model_size_bytes: 317788
+model_uuid: m-ee70e093967e461c9b9cd771af983bb4
+prompts: null
+run_id: 8b24246ed1644e84b0c7db9a1722db14
+utc_time_created: '2025-07-13 15:06:51.283906'
