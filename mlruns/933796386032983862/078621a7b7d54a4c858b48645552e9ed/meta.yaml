@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/078621a7b7d54a4c858b48645552e9ed/artifacts
+end_time: 1752422705127
+entry_point_name: ''
+experiment_id: '933796386032983862'
+lifecycle_stage: active
+run_id: 078621a7b7d54a4c858b48645552e9ed
+run_name: big-tern-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752422699357
+status: 3
+tags: []
+user_id: vatsa

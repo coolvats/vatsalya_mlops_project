@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/93d21ce09a6e4230badb570ef29e978e/artifacts
+end_time: 1752422711032
+entry_point_name: ''
+experiment_id: '933796386032983862'
+lifecycle_stage: active
+run_id: 93d21ce09a6e4230badb570ef29e978e
+run_name: melodic-shrike-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752422705141
+status: 3
+tags: []
+user_id: vatsa

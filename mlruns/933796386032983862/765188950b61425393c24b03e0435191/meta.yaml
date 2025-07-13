@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/765188950b61425393c24b03e0435191/artifacts
+end_time: 1752422671790
+entry_point_name: ''
+experiment_id: '933796386032983862'
+lifecycle_stage: active
+run_id: 765188950b61425393c24b03e0435191
+run_name: mercurial-shoat-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752422660592
+status: 3
+tags: []
+user_id: vatsa

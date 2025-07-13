@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/4ca57f03deeb474693efd0be5dfc9bc3/artifacts
+end_time: 1752422117187
+entry_point_name: ''
+experiment_id: '933796386032983862'
+lifecycle_stage: active
+run_id: 4ca57f03deeb474693efd0be5dfc9bc3
+run_name: indecisive-stag-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752422116342
+status: 4
+tags: []
+user_id: vatsa

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/a6553209b66343479ae2c896df5e28eb/artifacts
+end_time: 1752422717305
+entry_point_name: ''
+experiment_id: '933796386032983862'
+lifecycle_stage: active
+run_id: a6553209b66343479ae2c896df5e28eb
+run_name: classy-crane-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752422711045
+status: 3
+tags: []
+user_id: vatsa

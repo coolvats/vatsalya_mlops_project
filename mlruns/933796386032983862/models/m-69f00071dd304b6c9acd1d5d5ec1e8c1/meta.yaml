@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/models/m-69f00071dd304b6c9acd1d5d5ec1e8c1/artifacts
+creation_timestamp: 1752422711543
+experiment_id: '933796386032983862'
+last_updated_timestamp: 1752422717277
+model_id: m-69f00071dd304b6c9acd1d5d5ec1e8c1
+model_type: null
+name: model
+source_run_id: a6553209b66343479ae2c896df5e28eb
+status: 2
+status_message: null

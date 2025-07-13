@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/vatsa/Downloads/vatsalya_mlops_project/mlruns/933796386032983862/9c685e81f9b84043b2605b41edce7eed/artifacts
+end_time: 1752422730785
+entry_point_name: ''
+experiment_id: '933796386032983862'
+lifecycle_stage: active
+run_id: 9c685e81f9b84043b2605b41edce7eed
+run_name: victorious-duck-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752422723916
+status: 3
+tags: []
+user_id: vatsa
